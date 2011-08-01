@@ -2,4 +2,3 @@ name = My Theme
 description =  This is my first theme
 core = 7.x
 engine = phptemplate
-screenshot = screenshot.png
